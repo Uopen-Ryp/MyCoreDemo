@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CoreApiSwaggerDemo</name>
+    </assembly>
+    <members>
+        <member name="T:CoreApiSwaggerDemo.Controllers.ValuesController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:CoreApiSwaggerDemo.Controllers.ValuesController.Get">
+            GET: api
+        </member>
+        <member name="M:CoreApiSwaggerDemo.Controllers.ValuesController.Get(System.Int32)">
+            GET api//5
+        </member>
+        <member name="M:CoreApiSwaggerDemo.Controllers.ValuesController.Post(System.String)">
+            <summary>
+             POST api
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:CoreApiSwaggerDemo.Controllers.ValuesController.Put(System.Int32,System.String)">
+            PUT api/5
+        </member>
+        <member name="M:CoreApiSwaggerDemo.Controllers.ValuesController.Delete(System.Int32)">
+            DELETE api/5
+        </member>
+        <member name="T:CoreApiSwaggerDemo.Controllers.WeatherForecastController">
+            <summary>
+            天气类
+            </summary>
+        </member>
+        <member name="M:CoreApiSwaggerDemo.Controllers.WeatherForecastController.#ctor(Microsoft.Extensions.Logging.ILogger{CoreApiSwaggerDemo.Controllers.WeatherForecastController})">
+            <summary>
+            构造函数
+            </summary>
+            <param name="logger"></param>
+        </member>
+        <member name="M:CoreApiSwaggerDemo.Controllers.WeatherForecastController.Get">
+            <summary>
+            获取天气列表
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:CoreApiSwaggerDemo.Program">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:CoreApiSwaggerDemo.Program.Main(System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:CoreApiSwaggerDemo.Program.CreateHostBuilder(System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+        <member name="T:CoreApiSwaggerDemo.Startup">
+            <summary>
+            启动项
+            </summary>
+        </member>
+        <member name="M:CoreApiSwaggerDemo.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="P:CoreApiSwaggerDemo.Startup.Configuration">
+            <summary>
+            注册
+            </summary>
+        </member>
+        <member name="M:CoreApiSwaggerDemo.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            This method gets called by the runtime. Use this method to add services to the container.
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:CoreApiSwaggerDemo.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+        <member name="T:CoreApiSwaggerDemo.WeatherForecast">
+            <summary>
+            天气
+            </summary>
+        </member>
+        <member name="P:CoreApiSwaggerDemo.WeatherForecast.Date">
+            <summary>
+            日期
+            </summary>
+        </member>
+        <member name="P:CoreApiSwaggerDemo.WeatherForecast.TemperatureC">
+            <summary>
+            温度摄氏度
+            </summary>
+        </member>
+        <member name="P:CoreApiSwaggerDemo.WeatherForecast.TemperatureF">
+            <summary>
+            温度华氏度
+            </summary>
+        </member>
+        <member name="P:CoreApiSwaggerDemo.WeatherForecast.Summary">
+            <summary>
+            说明
+            </summary>
+        </member>
+    </members>
+</doc>
