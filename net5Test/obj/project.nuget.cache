@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c7r5U2cYQPfb+wzALCZ6jc2lMH3/Mnog+V2v1aC9SMDbYzCqD3uZaqpfFz4jC7e6qP8ch8XTSe1O/U3OBRns5Q==",
+  "dgSpecHash": "+bV9t/mBmW1IHlYo6guXNVU2qwp8Q3uoLl6d5Tx7bn1UQyvKK37af0I6cWUhZG2MRXEYxSe8GD2cFrRe/f1gzA==",
   "success": true,
-  "projectFilePath": "D:\\learn\\abp\\MyProject\\5.8.1\\aspnet-core\\net5Test\\net5Test.csproj",
+  "projectFilePath": "D:\\learn\\Test\\MyCoreDemo\\net5Test\\net5Test.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

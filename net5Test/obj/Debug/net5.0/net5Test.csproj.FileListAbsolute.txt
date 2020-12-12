@@ -1,0 +1,16 @@
+D:\learn\Test\MyCoreDemo\net5Test\bin\Debug\net5.0\net5Test.exe
+D:\learn\Test\MyCoreDemo\net5Test\bin\Debug\net5.0\net5Test.deps.json
+D:\learn\Test\MyCoreDemo\net5Test\bin\Debug\net5.0\net5Test.runtimeconfig.json
+D:\learn\Test\MyCoreDemo\net5Test\bin\Debug\net5.0\net5Test.runtimeconfig.dev.json
+D:\learn\Test\MyCoreDemo\net5Test\bin\Debug\net5.0\net5Test.dll
+D:\learn\Test\MyCoreDemo\net5Test\bin\Debug\net5.0\ref\net5Test.dll
+D:\learn\Test\MyCoreDemo\net5Test\bin\Debug\net5.0\net5Test.pdb
+D:\learn\Test\MyCoreDemo\net5Test\obj\Debug\net5.0\net5Test.csprojAssemblyReference.cache
+D:\learn\Test\MyCoreDemo\net5Test\obj\Debug\net5.0\net5Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn\Test\MyCoreDemo\net5Test\obj\Debug\net5.0\net5Test.AssemblyInfoInputs.cache
+D:\learn\Test\MyCoreDemo\net5Test\obj\Debug\net5.0\net5Test.AssemblyInfo.cs
+D:\learn\Test\MyCoreDemo\net5Test\obj\Debug\net5.0\net5Test.csproj.CoreCompileInputs.cache
+D:\learn\Test\MyCoreDemo\net5Test\obj\Debug\net5.0\net5Test.dll
+D:\learn\Test\MyCoreDemo\net5Test\obj\Debug\net5.0\ref\net5Test.dll
+D:\learn\Test\MyCoreDemo\net5Test\obj\Debug\net5.0\net5Test.pdb
+D:\learn\Test\MyCoreDemo\net5Test\obj\Debug\net5.0\net5Test.genruntimeconfig.cache

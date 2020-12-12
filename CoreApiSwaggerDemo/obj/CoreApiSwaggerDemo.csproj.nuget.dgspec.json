@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\learn\\abp\\MyProject\\5.8.1\\aspnet-core\\CoreApiSwaggerDemo\\CoreApiSwaggerDemo.csproj": {}
+    "D:\\learn\\Test\\MyCoreDemo\\CoreApiSwaggerDemo\\CoreApiSwaggerDemo.csproj": {}
   },
   "projects": {
-    "D:\\learn\\abp\\MyProject\\5.8.1\\aspnet-core\\CoreApiSwaggerDemo\\CoreApiSwaggerDemo.csproj": {
+    "D:\\learn\\Test\\MyCoreDemo\\CoreApiSwaggerDemo\\CoreApiSwaggerDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\learn\\abp\\MyProject\\5.8.1\\aspnet-core\\CoreApiSwaggerDemo\\CoreApiSwaggerDemo.csproj",
+        "projectUniqueName": "D:\\learn\\Test\\MyCoreDemo\\CoreApiSwaggerDemo\\CoreApiSwaggerDemo.csproj",
         "projectName": "CoreApiSwaggerDemo",
-        "projectPath": "D:\\learn\\abp\\MyProject\\5.8.1\\aspnet-core\\CoreApiSwaggerDemo\\CoreApiSwaggerDemo.csproj",
+        "projectPath": "D:\\learn\\Test\\MyCoreDemo\\CoreApiSwaggerDemo\\CoreApiSwaggerDemo.csproj",
         "packagesPath": "C:\\Users\\ruanyupeng\\.nuget\\packages\\",
-        "outputPath": "D:\\learn\\abp\\MyProject\\5.8.1\\aspnet-core\\CoreApiSwaggerDemo\\obj\\",
+        "outputPath": "D:\\learn\\Test\\MyCoreDemo\\CoreApiSwaggerDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ruanyupeng\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,6 +27,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,6 +39,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.Extensions.PlatformAbstractions": {
               "target": "Package",
@@ -58,6 +60,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -66,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200-preview.20601.7\\RuntimeIdentifierGraph.json"
         }
       }
     }

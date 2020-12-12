@@ -1,0 +1,7 @@
+D:\learn\Test\MyCoreDemo\CoreApiSwaggerDemo\bin\Debug\netcoreapp3.1\CoreApiSwaggerDemo.xml
+D:\learn\Test\MyCoreDemo\CoreApiSwaggerDemo\obj\Debug\netcoreapp3.1\CoreApiSwaggerDemo.csprojAssemblyReference.cache
+D:\learn\Test\MyCoreDemo\CoreApiSwaggerDemo\obj\Debug\netcoreapp3.1\CoreApiSwaggerDemo.AssemblyInfoInputs.cache
+D:\learn\Test\MyCoreDemo\CoreApiSwaggerDemo\obj\Debug\netcoreapp3.1\CoreApiSwaggerDemo.AssemblyInfo.cs
+D:\learn\Test\MyCoreDemo\CoreApiSwaggerDemo\obj\Debug\netcoreapp3.1\CoreApiSwaggerDemo.csproj.CoreCompileInputs.cache
+D:\learn\Test\MyCoreDemo\CoreApiSwaggerDemo\obj\Debug\netcoreapp3.1\CoreApiSwaggerDemo.MvcApplicationPartsAssemblyInfo.cs
+D:\learn\Test\MyCoreDemo\CoreApiSwaggerDemo\obj\Debug\netcoreapp3.1\CoreApiSwaggerDemo.MvcApplicationPartsAssemblyInfo.cache
