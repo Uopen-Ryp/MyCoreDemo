@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\learn\\abp\\MyProject\\5.8.1\\aspnet-core\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\learn\\Test\\MyCoreDemo\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\learn\\abp\\MyProject\\5.8.1\\aspnet-core\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\learn\\Test\\MyCoreDemo\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\learn\\abp\\MyProject\\5.8.1\\aspnet-core\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\learn\\Test\\MyCoreDemo\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "D:\\learn\\abp\\MyProject\\5.8.1\\aspnet-core\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "D:\\learn\\Test\\MyCoreDemo\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\ruanyupeng\\.nuget\\packages\\",
-        "outputPath": "D:\\learn\\abp\\MyProject\\5.8.1\\aspnet-core\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\learn\\Test\\MyCoreDemo\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ruanyupeng\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,7 +26,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net50": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -37,13 +38,24 @@
         }
       },
       "frameworks": {
-        "net50": {
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win7-x86": {
-          "#import": []
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200-preview.20601.7\\RuntimeIdentifierGraph.json"
         }
       }
     }

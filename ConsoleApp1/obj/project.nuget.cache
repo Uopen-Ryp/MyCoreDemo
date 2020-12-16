@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AkbtZWSkbXuCFUpSwd7Dd7evEoolJHqQamulRP22ZwSPTkKwd6+6TG/D2gXbZi3max6YXNIBp5pP3W/ExnYjog==",
+  "dgSpecHash": "+mV8t5dwE4TbjdKjgZfvAoBEkOon+fs5s3+SHm8ptUYq3mXBbx5Yc+nMLbSlk0BNcRqF/uttpXkRXOd0FZMvtg==",
   "success": true,
-  "projectFilePath": "D:\\learn\\abp\\MyProject\\5.8.1\\aspnet-core\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "D:\\learn\\Test\\MyCoreDemo\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
